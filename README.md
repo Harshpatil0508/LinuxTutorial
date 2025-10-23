@@ -1,6 +1,6 @@
 # Ultimate Linux Guide
 
-Following topics are covered as part of the course and documentation.
+Following topics are covered.
 
 - Fundamentals of Linux
 - Linux vs Windows
